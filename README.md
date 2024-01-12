@@ -8,4 +8,4 @@ cd Mysam-Random
 
 ls
 
-python PATHANx-Enc.py
+python PATHANx-Enc.pyc
